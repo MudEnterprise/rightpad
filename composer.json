@@ -3,7 +3,7 @@
     "description": "Example composer package",
     "type": "library",
     "require": {
-        "php": "^7.2"
+        "php": "^7.3"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
